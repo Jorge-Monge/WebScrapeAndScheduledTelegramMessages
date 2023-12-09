@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.__pycache__
+Lib
+Scripts
+share
+.gcloudignore
+*.py
+*.cfg
+*.txt
+session.session
+session.session-journal
+*.zip
+scrape_kijiji_with_telegram_send.ipynb
